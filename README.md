@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/yusufkalyoncu/yusufkalyoncu/blob/main/coding_is_fun.gif?raw=true)
-<link rel="stylesheet" type="text/css" href="style.css">
 <h1 align="center">Hey it's me Yusuf</h1>
 <h3 align="center">Am i cyber security specialist? No i'm not hacker or lamer. I just like MRX. I'm trying to improve my skills in backend development with ASP.NET</h3>
 <img align="right" alt="MRX" width="350" class="img" src="https://raw.githubusercontent.com/yusufkalyoncu/yusufkalyoncu/main/mrx.webp">

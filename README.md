@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/yusufkalyoncu/yusufkalyoncu/blob/main/coding_is_fun.gif?raw=true)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hey it's me Yusuf</h1>
-<h3 align="center">Am i cyber security specialist? No i'm not hacker or lamer. I just like MRX. I'm trying to improve my skills in backend development with ASP.NET</h3>
-<img align="right" alt="MRX" width="350" class="img" src="https://raw.githubusercontent.com/yusufkalyoncu/yusufkalyoncu/main/mrx.webp">
+<h3 align="center">I'm trying to improve my skills in backend development with ASP.NET</h3>
+<img align="right" alt="gif" width="350" class="img" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufkalyoncu&label=Profile%20views&color=0e75b6&style=flat" alt="yusufkalyoncu" /> </p>
 
 - 🔭 I’m currently working on **MeowieAPI/MeowieClient**
